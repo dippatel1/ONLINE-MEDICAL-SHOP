@@ -15,15 +15,29 @@ Here are the code files and its contents.
 
 
 Functionalities
-❖ Login & Signup
-❖ Logout & Reset Password
-❖ View & Update User profile
-❖ View products category wise
-❖ View description of each product
-❖ Add to cart
-❖ Generate order
-❖ Insert & delete product from cart
+
+=>Login & Signup
+
+=>Logout & Reset Password
+
+=>View & Update User profile
+
+=> View products category wise
+
+=> View description of each product
+
+=> Add to cart
+
+=> Generate order
+
+=> Insert & delete product from cart
+
+
+
 Technologies Used:
+
 Frontend : HTML,CSS,BOOTSTRAP
+
 Backend : PHP
+
 Database: MySql
